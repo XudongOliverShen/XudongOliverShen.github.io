@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Xudong Shen</title>
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <description>Xudong Shen</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Academic</title>
+      <url>/images/icon_hu4c43ab1b0db79b3c9ff34e4f6f882025_1231_512x512_fill_lanczos_center_2.png</url>
+      <title>Xudong Shen</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>More About Me</title>
+      <link>/more-about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/more-about-me/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
